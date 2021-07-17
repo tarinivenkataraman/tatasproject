@@ -1,0 +1,83 @@
+
+.Total{
+    background-image: linear-gradient(rgba(0,0,0,0.1),#486AAE),url(./tata1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 95vh;
+}
+
+.Midele p{
+    margin-top: 30vh;
+    font-size: 2em;
+    font-weight: 900;
+    color: white;
+}
+.assert
+{
+    background: transparent;
+            padding: 7px 20px;
+            background: linear-gradient(to right, #1154da,#486AAE );
+            border-radius: 9px;
+            color: white;
+            font-weight: 500;
+            font-size: 1.2em;
+            border: none;
+            text-decoration: none;
+            margin: 0 10px;
+}
+@media screen and (max-width: 770px){
+    .assert
+    {
+        padding:5px 15px;
+        border-radius: 5px;
+        font-weight: 300;
+        font-size: medium;
+        margin: 0 6px;
+    }
+}
+@media screen and (max-width: 615px){
+    .assert
+    {
+        padding:3px 10px;
+        border-radius: 4px;
+        font-weight: 200;
+        font-size: small;
+        margin: 0 3px;
+    }
+}
+@media screen and (max-width: 505px){
+    .assert
+    {
+        padding:2px 8px;
+        border-radius: 3px;
+        font-weight: 100;
+        font-size: small;
+        margin: 0 2px;
+    }
+}
+@media screen and (max-width: 360px){
+    .assert
+    {
+        padding:2px 8px;
+        border-radius: 4px;
+        font-weight: 100;
+        font-size: smaller;
+        margin: 0 2px;
+    }
+}
+.Head{
+    font-size:20px;
+    font-weight: 700;
+}
+.Sowhead{
+    font-size: 28px;
+    font-weight: 900;
+    color: white;
+}
+.assert:hover{
+    background: #1154da ;
+    color: beige;
+    text-decoration: none;
+}

@@ -1,0 +1,65 @@
+#maincons{
+    background-color: 	#494949;
+    padding-top: 1em;
+    color: white;
+    
+}
+.paras{
+    text-align: center;
+    font-size: 2em;
+    align-items: center;
+}
+.parts{
+    font-size: 1.6em;
+}
+.inputs{
+    margin-top: 0.7em;
+    background: white;
+    padding: 0.5em 0.1em;
+    width: 15em;
+}
+.enters{
+    padding-top: 1em;
+}
+#buttn{
+    background: transparent;
+    padding: 4px 8px;
+    background: linear-gradient(to right, #1154da,#486AAE );
+    
+    padding: 0.5em 0.1em;
+    color: white;
+    font-weight: 500;
+    font-size: 1em;
+    border: none;
+    text-decoration: none;
+    margin: 0 0em;
+    width: 6em;
+}
+.newsletter{
+    padding-right: 1em;
+    padding-left: 1em;
+}
+.copyright{
+    padding-top: 1.7em;
+    font-size: 1em;
+    font-weight: 900;
+    padding-bottom: 0.4em;
+}
+.goback{
+    padding-top:0.8em ;
+    padding-bottom:0.8em ;
+    font-size: 1.8em;
+    color: black;
+}
+.FaFacebook:hover{
+    color: #1154da;
+}
+.disc{
+    float:left;
+}
+.disc p{
+    width: 15em;
+}
+.info{
+    list-style-type: none;
+}
